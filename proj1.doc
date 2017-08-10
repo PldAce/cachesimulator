@@ -1,0 +1,195 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Calibri;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Courier;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f3\fnil\fcharset0\fprq0\fttruetype Cambria;}
+{\f4\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s5\tx1584\f0\fs24\lang1033\sbasedon38\snext36 Chapter Heading;}
+{\s51\fi-429\li720\f0\fs24\lang1033\sbasedon41 Upper Roman List;}
+{\*\cs24\f0\fs32\b\sbasedon12 Heading 1 Char;}
+{\s37\fs20\lang1033 Normal Table;}
+{\s53\f0\fs24\lang1033\sbasedon36 endnote text;}
+{\s34\fi-429\li720\f0\fs24\lang1033\sbasedon41 Lower Case List;}
+{\*\cs12 Default Paragraph Font;}
+{\s49\fi-429\li720\f0\fs24\lang1033 Triangle List;}
+{\s23\sb440\sa60\f2\fs34\b\sbasedon36\snext36 Heading 1;}
+{\s25\sb440\sa60\f2\fs28\b\sbasedon36\snext36 Heading 2;}
+{\s4\fi-429\li720\f0\fs24\lang1033 Bullet List;}
+{\s29\sb440\sa60\f2\fs24\b\sbasedon36\snext36 Heading 4;}
+{\s31\fi-429\li720\f0\fs24\lang1033 Heart List;}
+{\s1\fi-429\li720\f0\fs24\lang1033 Arrowhead List;}
+{\s2\li1440\ri1440\sa118\f0\fs24\lang1033\sbasedon36 Block Text;}
+{\s45\fi-429\li720\f0\fs24\lang1033 Square List;}
+{\s10\qc\sb240\sa118\f2\fs32\b\lang1033\sbasedon36\snext36 Contents Header;}
+{\s42\f4\fs24\lang1033\sbasedon36 Plain Text;}
+{\s20\fs20\sbasedon36 Footnote Text;}
+{\s27\sb440\sa60\f2\fs24\b\sbasedon36\snext36 Heading 3;}
+{\s41\fi-429\li720\f0\fs24\lang1033 Numbered List;}
+{\s13\fi-429\li720\f0\fs24\lang1033 Diamond List;}
+{\s22\fi-429\li720\f0\fs24\lang1033 Hand List;}
+{\s47\fs20\lang1033\sbasedon37 Table Grid;}
+{\*\cs54\fs20\super\sbasedon12 footnote reference;}
+{\s50\fi-429\li720\f0\fs24\lang1033\sbasedon41 Upper Case List;}
+{\s3\fi-429\li720\f0\fs24\lang1033 Box List;}
+{\s58\sb440\sa60\f2\fs24\b\lang1033\sbasedon36\snext36 heading 3;}
+{\s36\sl264\slmult1\sa200\f0\fs22\lang1033 Normal;}
+{\s59\sb440\sa60\f2\fs24\b\lang1033\sbasedon36\snext36 heading 4;}
+{\s33\sl264\slmult1\sa200\f0\fs22\lang1033\sbasedon36 List Paragraph;}
+{\s56\sb440\sa60\f2\fs34\b\lang1033\sbasedon36\snext36 heading 1;}
+{\*\cs43\f1\sbasedon12 Plain Text Char;}
+{\s46\fi-429\li720\f0\fs24\lang1033 Star List;}
+{\s44\tx1584\f0\fs24\lang1033\sbasedon38\snext36 Section Heading;}
+{\s55\f0\fs20\lang1033\sbasedon36 footnote text;}
+{\*\cs52\fs20\super\sbasedon12 endnote reference;}
+{\s32\fi-429\li720\f0\fs24\lang1033 Implies List;}
+{\*\cs21\fs24\sbasedon12 Footnote Text Char;}
+{\s48\fi-429\li720\f0\fs24\lang1033 Tick List;}
+{\*\cs17\fs24\sbasedon12 Endnote Text Char;}
+{\*\cs28\f0\fs26\b\sbasedon12 Heading 3 Char;}
+{\s57\sb440\sa60\f2\fs28\b\lang1033\sbasedon36\snext36 heading 2;}
+{\s14\fi-288\li288\f0\fs24\lang1033\sbasedon36 Endnote;}
+{\*\cs30\f3\fs28\b\sbasedon12 Heading 4 Char;}
+{\s11\fi-429\li720\f0\fs24\lang1033 Dashed List;}
+{\s35\fi-429\li720\f0\fs24\lang1033\sbasedon36 Lower Roman List;}
+{\*\cs19\fs20\super Footnote Reference;}
+{\s16\sbasedon36 Endnote Text;}
+{\*\cs15\fs20\super Endnote Reference;}
+{\s38\tx431\f0\fs24\lang1033\sbasedon56\snext36 Numbered Heading 1;}
+{\s39\tx431\f0\fs24\lang1033\sbasedon57\snext36 Numbered Heading 2;}
+{\s40\tx431\f0\fs24\lang1033\sbasedon58\snext36 Numbered Heading 3;}
+{\s7\fi-429\li1440\f0\fs24\lang1033\sbasedon36\snext36 Contents 2;}
+{\s18\fi-288\li288\f0\fs20\lang1033\sbasedon36 Footnote;}
+{\s6\fi-429\li720\f0\fs24\lang1033\sbasedon36\snext36 Contents 1;}
+{\*\cs26\f0\fs28\i\b\sbasedon12 Heading 2 Char;}
+{\s8\fi-429\li2160\f0\fs24\lang1033\sbasedon36\snext36 Contents 3;}
+{\s9\fi-429\li2880\f0\fs24\lang1033\sbasedon36\snext36 Contents 4;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\qc\sa200\sl240\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Florida International University}{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\sa200\sl240\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch CDA4101:}{\f0\fs22\b\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\b\lang1033{\*\listtag0}Structured Computer Organization}{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\qc\sa200\sl240\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Project}{\f0\fs22\b\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\b\lang1033{\*\listtag0}1:}{\f0\fs22\b\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\b\lang1033{\*\listtag0}Cache Simulator}{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl240\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch For this project you will complete code for a simulator of a direct-mapped cache.  The user will be able to specify a cache size and a series of memory reads.  Upon your successful completion of two functions, the code will tell them which are hits and which are misses, display the cache including valid bits, tags and indices, and indicate the current hit rate of the cache.}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch I have laid the groundwork by providing a class }{\f0\fs22\b\lang1033{\*\listtag0}CacheEntry.java}{\f0\fs22\lang1033{\*\listtag0}.  This handles all data members for each entry of the cache (including the tag and valid bit, and initializes an empty one at the beginning of the program).  I also provided a short }{\f0\fs22\b\lang1033{\*\listtag0}main()}{\f0\fs22\lang1033{\*\listtag0} function in }{\f0\fs22\b\lang1033{\*\listtag0}MemoryAccess.java}{\f0\fs22\lang1033{\*\listtag0}.  This is the driver code that interacts with the user, but will depend on your code to work.  }{\f0\fs22\ul\lang1033{\*\listtag0}You should not modify either of these files, as when I test the code I will use the originals}{\f0\fs22\lang1033{\*\listtag0}.}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch All of your modifications will be in two functions of the file }{\f0\fs22\b\lang1033{\*\listtag0}Cache.java}{\f0\fs22\lang1033{\*\listtag0}.  They are:}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch decToBin32}{\f0\fs22\lang1033{\*\listtag0}: Convert a value in base 10 to a 32-bit binary value (returned as a string).  I have started this function by providing you with }{\f0\fs22\b\lang1033{\*\listtag0}quotient}{\f0\fs22\lang1033{\*\listtag0} and }{\f0\fs22\b\lang1033{\*\listtag0}remainder}{\f0\fs22\lang1033{\*\listtag0} variables, and an empty loop.  You also will need to pad with zeroes at the beginning of the value, assuming it is less than 32 bits.  Both spots are indicated by the blocks PUT CODE HERE.  }{\f0\fs22\ul\lang1033{\*\listtag0}You need only modify those two blocks}{\f0\fs22\lang1033{\*\listtag0}.  You may use JavaDoc or Internet converters to check your answer, but you may not use any pre-built Java functions that do the conversion to binary.}{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch cache}{\f0\fs22\lang1033{\*\listtag0}: You will need to complete this entire function.  This accepts a DRAM memory address (you can assume it is positive or zero), checks the cache for that memory address, and returns TRUE for a hit and FALSE for a miss.  Remember to hit in the cache, the valid bit needs to be set and the tag must match (this is why you are also doing a }{\f0\fs22\b\lang1033{\*\listtag0}decToBin32}{\f0\fs22\lang1033{\*\listtag0} function, as you will need the binary tag for your address).  If it hits, you should add one to the number of hits (stored in numhits), so the hit counter stays accurate.  Remember if it misses, you must also bring that address into the cache by updating the tag at the appropriate spot and setting the valid bit.  }{\f0\fs22\ul\lang1033{\*\listtag0}Hint}{\f0\fs22\lang1033{\*\listtag0}: I have provided a helper }{\f0\fs22\b\lang1033{\*\listtag0}log2}{\f0\fs22\lang1033{\*\listtag0} function, so you can get how many bits you should use for the tag.}{\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch You should only modify these two functions}{\f0\fs22\lang1033{\*\listtag0}.  Any other modifications may break the code when I test it.}{\f0\fs22\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch I will check each group\uc1\u8217\'92s progress at the end of class,}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\lang1033{\*\listtag0}however upon completion please e-mail}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\b\lang1033{\*\listtag0}Cache.java}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\lang1033{\*\listtag0}(one per group}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0}) }{\f0\fs22\lang1033{\*\listtag0}as an attachment to tcickovs@fiu.edu,}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0} }{\f0\fs22\lang1033{\*\listtag0}along with your group number.}{\f0\fs22\lang1033\ltrch\abiltr{\*\listtag0}  }{\f0\fs22\i\b\lang1033{\*\listtag0}The deadline is the end of class on Tuesday, January 26}{\f0\fs22\lang1033{\*\listtag0}.}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Sample execution of a program:}{\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter the size of your cache in blocks: }{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 8}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 3}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch MISS, Must go to DRAM.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 5\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 0.0%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 13}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch MISS, Must go to DRAM.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 0.0%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 3}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch HIT, Data used.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 33.33333333333333%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 19}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch MISS, Must go to DRAM.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000010}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 25.0%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 13}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch HIT, Data used.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000010}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 40.0%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 3}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch MISS, Must go to DRAM.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 33.33333333333333%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch 3}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch HIT, Data used.}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch V INDEX\tab TAG}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 0\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 1\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 2\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 3\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 4\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1 5\tab 00000000000000000000000000001}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 6\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 0 7\tab 00000000000000000000000000000}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch ************************************************************}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Current hit rate: 42.857142857142854%}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Enter a memory address to read (negative value to stop):}{\f1\fs18\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sl240\slmult1\itap0{\f1\fs18\b\ul\lang1033{\*\listtag0}\abinodiroverride\ltrch -5}{\f1\fs18\b\ul\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\sa200\sl264\slmult1\itap0{\f0\fs22\lang1033{\*\listtag0}\par}}
